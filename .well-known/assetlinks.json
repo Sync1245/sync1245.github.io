@@ -1,0 +1,15 @@
+
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.sync1245.twa",
+      "sha256_cert_fingerprints": [
+        "7F:FC:04:FD:15:79:84:50:44:6B:8A:A8:FD:2E:E4:72:F5:A0:EA:A9:3A:80:A0:89:6A:54:35:ED:06:0D:C1:37"
+      ]
+    }
+  }
+]
